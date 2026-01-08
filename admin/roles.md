@@ -1,9 +1,9 @@
-## Author-1 Aditya Adhikari, Author-2 Sparsh Samrat
+## Aditya Adhikari, Sparsh Samrat
 - Run experiments
 - Modify code
 - Analyze results
 
-## Author-3 Soumyadip Debnath
+## Soumyadip Debnath
 - Maintain documentation
 - Update daily reports
 - Track parameters & failures
