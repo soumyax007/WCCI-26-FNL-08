@@ -1,6 +1,5 @@
 ## Second Year Students
-#Author-1 Aditya Adhikari,
-#Author-2 Sparsh Samrat
+#Author-1 Aditya Adhikari,Author-2 Sparsh Samrat
 
 - Run experiments
 - Modify code
